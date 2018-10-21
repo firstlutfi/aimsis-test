@@ -1,5 +1,5 @@
 <?php
-	$input = file('input.in');
+	$input = file('input2.in');
 
 	$a = array();
 	$b = array();
